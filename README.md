@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anikjoyy
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning in programming hero
+- 🌱 I’m a Jr. Mern Stack Web Developer
 
 
 <!---
