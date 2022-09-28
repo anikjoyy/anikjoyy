@@ -2,7 +2,6 @@
 <h3 align="center">A passionate Jr. MERN Stack Web Developer</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anikjoyy&label=Profile%20views&color=0e75b6&style=flat" alt="anikjoyy" /> </p>
 
 <p align="left"> <a href="https://twitter.com/anikjoyy" target="blank"><img src="https://img.shields.io/twitter/follow/anikjoyy?logo=twitter&style=for-the-badge" alt="anikjoyy" /></a> </p>
 
