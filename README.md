@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **anikjoy.cse@gmail.com**
 
-- 📄 Know about my projects and works [https://drive.google.com/file/d/1jPUmdCvo436JNNEabb3nLRTXqelDRFr0/view?usp=sharing](https://drive.google.com/file/d/1jPUmdCvo436JNNEabb3nLRTXqelDRFr0/view?usp=sharing)
+- 👨‍💻 All of my projects are available at [https://anikjoyy-portfolio.netlify.app/](https://anikjoyy-portfolio.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
