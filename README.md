@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **anikjoy.cse@gmail.com**
 
-- 👨‍💻 All of my projects are available at [https://anikjoyy-portfolio.netlify.app/](https://anikjoyy-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://anikjoyy-portfolio.netlify.app/](https://anik-das-portfolio.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -19,7 +19,7 @@
 <a href="https://linkedin.com/in/anikjoyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anikjoyy" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19071704" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19071704" height="30" width="40" /></a>
 <a href="https://instagram.com/anikjoyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anikjoyy" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/anikjoyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anikjoyy" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
