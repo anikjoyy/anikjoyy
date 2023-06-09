@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/anikjoyy" target="blank"><img src="https://img.shields.io/twitter/follow/anikjoyy?logo=twitter&style=for-the-badge" alt="anikjoyy" /></a> </p>
 
-- 🌱 I’m currently learning **Frameworks**
+- 🌱 I’m currently learning **Full Stack Web Development**
 
 - 💬 Ask me about **React, MERN**
 
 - 📫 How to reach me **anikjoy.cse@gmail.com**
 
-- 👨‍💻 All of my projects are available at [https://anikjoyy-portfolio.netlify.app/](https://anik-das-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [my-portfolio](https://anik-das-portfolio.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
